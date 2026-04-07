@@ -14,7 +14,11 @@ int main() {
     cout << "학번을 입력하세요 : ";
     cin >> input2;
 
+    string input3;
+    cout << "학과를 입력하세요 : ";
+    cin >> input3;
+
     cout << endl;
-    cout << "<출력>" << endl << "이름 : " << input << endl << "학번 : " << input2 << endl;
+    cout << "<출력>" << endl << "이름 : " << input << endl << "학번 : " << input2 << endl << "학과 : " << input3 << endl;
     return 0;
 }
