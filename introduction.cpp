@@ -17,7 +17,7 @@ int main() {
     string input3;
     cout << "학과를 입력하세요 : ";
     cin >> input3;
- 
+    
     string input4;
     cout << "학교를 입력하세요 : ";
     cin >> input4;
